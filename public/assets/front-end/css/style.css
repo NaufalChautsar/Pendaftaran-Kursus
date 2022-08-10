@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=Poppins:wght@100&display=swap');
+
+* {
+    font-family: 'Roboto';
+}
+
+body {
+  background-color: #f0f2f5;
+}
+
+.landing-page {
+    height: 80vh;
+}
+
+.title-kursus {
+    margin: 100px;
+}
+
+.kursus {
+    height: max-content;
+    margin: 50px 80px 0px 80px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
